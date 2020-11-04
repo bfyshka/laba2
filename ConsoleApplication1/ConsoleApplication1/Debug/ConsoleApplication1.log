@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+c:\users\administrator\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(41): warning C4101: 'a': unreferenced local variable
+c:\users\administrator\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(54): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(57): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\Administrator\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
